@@ -1,2 +1,7 @@
+.holder {
+  display: flex;
+  justify-content: center; /* Align items in the center */
+  flex-wrap: wrap; /* Allow items to wrap onto multiple lines */
+}
 
 /* Your CSS Code here. */
